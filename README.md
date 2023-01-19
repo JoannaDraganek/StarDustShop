@@ -1,5 +1,5 @@
 # StarDustShop
-![screenshotStarDustShop](/images/firstView.jpg)
+![screenshotStarDustShop](/images/firstView.JPG.jpg)
 
 ## Demo
 https://joannadraganek.github.io/StarDustShop/
