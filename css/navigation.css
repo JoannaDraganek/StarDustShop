@@ -1,0 +1,39 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.navigation {
+    background-color: rgb(108, 129, 167);
+    color: white;
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    max-width: 1000px;
+    padding: 2%;
+    margin: 20px auto;
+    border-style: solid;
+    border: 1px;
+    border-color: rgb(61, 61, 61);
+}
+
+.list {
+    text-align: center;
+    line-height: 1.5;
+    padding:5px;
+    margin: 5px;
+}
+
+.navigation__listItem {
+    display: inline;
+    margin: 15px;
+    list-style-type: none;
+    text-decoration: none; 
+}
+
+.navigation__list {
+    margin: 8px 0;
+    list-style-position: inside;
+}
